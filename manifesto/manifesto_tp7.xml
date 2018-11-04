@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "file:/home/d3/Documents/UM/4/PRI/manifesto/manifesto.dtd">
+<manifesto>
+    <meta>
+        <id>TP6</id>
+        <título>Criação de Aplicação para Upload de Ficheiros</título>
+        <dinício>29 de Outubro de 2018</dinício>
+        <dfim>4 de Novembro de 2018</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>www.di.uminho.pt/~jcr</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <id>A77048</id>
+            <nome>Eduardo Gil Ribeiro da Rocha</nome>
+            <email>a77048@alunos.uminho.pt</email>
+            <foto path="../Imagens/foto.png"></foto>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>Este trabalho envolveu a expansão de um sistema de upload de ficheiros elaborado em uma aula prática, 
+        para que seja possível não só fazer o upload de ficheiros como ver a listagem dos ficheiros enviados até ao 
+        momento. Esta lista deveria ser capaz também de redirecionar o utilizador para o próprio ficheiro.</para>
+        <para>Parte do trabalho foi também aprender a usar novas ferramentas como o Express.js.</para>
+    </resumo>
+    <resultados>
+        <resultado path="https://github.com/egrocha/PRI2018-A77048-TP7">Repositório do trabalho.</resultado>
+    </resultados>
+</manifesto>

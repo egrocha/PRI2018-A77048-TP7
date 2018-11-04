@@ -1,0 +1,26 @@
+{
+  "name": "tp7",
+  "version": "1.0.0",
+  "description": "TP7 de PRI",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egrocha/PRI2018-A77048-TP7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egrocha/PRI2018-A77048-TP7/issues"
+  },
+  "homepage": "https://github.com/egrocha/PRI2018-A77048-TP7#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "formidable": "^1.2.1",
+    "jsonfile": "^5.0.0",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3"
+  }
+}
